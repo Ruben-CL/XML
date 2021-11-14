@@ -1,0 +1,12 @@
+libreria{
+display: table;
+border: black 1px solid;
+}
+libro {
+  display: table-row;
+}
+
+titulo, autor, año, precio {
+  border: black 1px solid;
+  display: table-cell;
+}

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<productos_nuevos>
+<producto seccion="deportes">
+<nombre>Bicicleta</nombre>
+<marca>HB</marca>
+</producto>
+<producto seccion="menaje">
+<nombre>Cafetera</nombre>
+<marca>Magefesa</marca>
+</producto>
+<producto seccion="alimentacion">
+<nombre>Café</nombre>
+<marca>Lavazza</marca>
+</producto>
+<producto seccion="alimentacion">
+<nombre>Aceitunas</nombre>
+</producto>
+</productos_nuevos>

@@ -1,0 +1,21 @@
+desayunos{
+display: table;
+border: black 1px solid;
+}
+
+encabezado {
+display: table-row;
+}
+
+desayuno {
+  display: table-row;
+}
+
+nombre, precio , descripcion, calorias {
+  border: black 1px solid;
+  display: table-cell;
+}
+nombre{color:blue;}
+precio{color:red;}
+descripcion{color:green;}
+calorias{color:grey;}

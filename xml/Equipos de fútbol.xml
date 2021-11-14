@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Equipos.css"?>
+<equipos_de_futbol>
+<encabezado>
+<nombre>Nombre</nombre>
+<ciudad>Ciudad</ciudad>
+<entrenador>Entrenador</entrenador>
+<jugador>Jugador</jugador>
+<jugador>Jugador</jugador>
+</encabezado>
+<equipo>
+<nombre>Real Madrid</nombre>
+<ciudad>Madrid</ciudad>
+<entrenador></entrenador>
+<jugador posicion="defensa">Sergio Ramos</jugador>
+<jugador posicion="medio">Tony Kross</jugador>
+</equipo>
+<equipo>
+<nombre>F.C. Barcelona</nombre>
+<ciudad>Barcelona</ciudad>
+<entrenador></entrenador>
+<jugador posicion="delantero">Ousmane Dembelé</jugador>
+<jugador posicion="portero">Mark-Andre Ter-Steguen</jugador>
+</equipo>
+</equipos_de_futbol>

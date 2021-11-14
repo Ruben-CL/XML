@@ -1,0 +1,19 @@
+equipos{
+display: table;
+border: black 1px solid;
+}
+encabezado {
+display: table-row;
+}
+equipo {
+  display: table-row;
+}
+
+nombre, jugador , entrenador, ciudad {
+  border: black 1px solid;
+  display: table-cell;
+}
+nombre{color:blue;}
+jugador{color:red;}
+ciudad{color:green;}
+entrenador{color:grey;}

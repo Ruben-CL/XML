@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bdalumnos [
+  <!ELEMENT bdalumnos (alumno+)>
+  <!ELEMENT alumno (nombre, padre, madre, edad, ciudad)>
+  <!ELEMENT nombre (#PCDATA)>
+  <!ELEMENT padre (#PCDATA)>
+  <!ELEMENT madre (#PCDATA)>
+  <!ELEMENT ciudad (#PCDATA)>
+   <!ELEMENT edad (#PCDATA)>
+]>
+<bdalumnos>
+<alumno>
+<nombre> Jose Antonio</nombre>
+<padre>Jose Luis</padre>
+<madre>Carmen</madre>
+<edad>18</edad>
+<ciudad>Málaga</ciudad>
+</alumno>
+<alumno>
+<nombre>Francisco Jesús</nombre>
+<padre>José</padre>
+<madre>María</madre>
+<edad>25</edad>
+<ciudad>15</ciudad>
+</alumno>
+</bdalumnos>
